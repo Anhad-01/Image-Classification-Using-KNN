@@ -1,9 +1,4 @@
 # Image-Classification-Using-KNN
-An image classification model that distinguishes between the images of a cat and dog using K-Nearest Neighbors (KNN). 
-
----
-
-# **Image Classification Using k-NN**  
 
 This repository contains an **image classification project using k-Nearest Neighbors (k-NN)**. The dataset consists of **25,000 images** (50% cats, 50% dogs), and the best-performing **k-value was found to be k = 5** based on the confusion matrix.  
 

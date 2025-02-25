@@ -43,8 +43,7 @@ for k in k_values:
 
 ### **3. Model Performance**
 - The best `k` value was determined based on performance metrics.  
-- **Confusion Matrix for k = 5**:  
-  ![Confusion Matrix](image.png)  
+- **Confusion Matrix for k = 5**:   
   - **True Positives (Cats):** 1892  
   - **False Positives (Dogs classified as Cats):** 662  
   - **False Negatives (Cats classified as Dogs):** 1446  
@@ -54,5 +53,4 @@ for k in k_values:
 
 ## **Results & Observations**
 - The model performed **best at k = 5**, balancing accuracy and generalization.  
-- Accuracy = **(TP + TN) / (Total samples)**  
-- Training time: **_[Insert time]_**  
+- Accuracy = 58%   
